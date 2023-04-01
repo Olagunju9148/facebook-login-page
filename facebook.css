@@ -38,6 +38,7 @@ body{
     border-color: transparent;
     box-shadow: 0px  2px 10px 1px rgba(0,0,0, 0.52);
     margin: -10px;
+    margin-top: -50px;
     transition: all 1s;
 }
 .form:hover{
